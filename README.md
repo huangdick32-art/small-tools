@@ -1,0 +1,2 @@
+# small-tools
+ai create
